@@ -1,1 +1,22 @@
 /* write your override styles here */
+#wall {
+    background-color: aqua;
+    display: block;
+    text-align: center;
+    padding: 15px;
+}
+
+
+.parent #tag-6{
+    color: beige;
+    align-items: center;
+    max-width: fit-content;
+    width: 35px;
+}
+
+ #wall {
+    background-color: blue;
+    display: block;
+    text-align: left;
+    padding: 30px;
+    }
